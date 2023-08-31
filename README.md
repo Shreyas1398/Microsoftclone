@@ -1,2 +1,0 @@
-# Microsoftclone
-Clone of Microsoft
